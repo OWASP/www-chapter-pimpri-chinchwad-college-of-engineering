@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ganesh Deshmukh](mailto:ganesh.deshmukh@owasp.org)
+* [Suraj Dhamak](mailto:suraj.dhamak@owasp.org)
