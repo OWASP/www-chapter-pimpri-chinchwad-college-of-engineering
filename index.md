@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Pimpri Chinchwad College of Engineering
-tags: example-tag
+tags: PCCOE
 region: Asia
 country: India
 meetup-group:
