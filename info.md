@@ -1,8 +1,8 @@
-### Pimpri Chinchwad College of Engineering Information
+### Pimpri Chinchwad College of Engineering Information, Pune
 * Provide Group Information
 
 ### Social Links
 * [Meetup](#)
-*[Discord](#)
+* [Discord](https://discord.gg/93GpqSdQ)
 
 

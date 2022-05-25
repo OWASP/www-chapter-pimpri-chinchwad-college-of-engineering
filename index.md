@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Pimpri Chinchwad College of Engineering
+title: OWASP Pimpri Chinchwad College of Engineering, Pune
 tags: PCCOE
 region: Asia
 country: India
@@ -12,7 +12,7 @@ meetup-group:
 
 
 ## Welcome
-This is the homepage of the OWASP Student Chapter of Pimpri Chinchwad College of Engineering(Pccoe).
+This is the homepage of the OWASP Student Chapter of Pimpri Chinchwad College of Engineering(Pccoe) Pune.
 
 ## Participation
 
@@ -26,7 +26,7 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 
 ## Community
-You can join our [Meetup group](#) to get updates about our upcoming events. You can also join our [Discord server](#) and our channel on [OWASP's Slack](https://owasp.slack.com/) for discussions relevant to application security and the working of this chapter.
+You can join our [Meetup group](#) to get updates about our upcoming events. You can also join our [Discord server](https://discord.gg/93GpqSdQ) and our channel on [OWASP's Slack](https://owasp.slack.com/) for discussions relevant to application security and the working of this chapter.
 
 We also encourage you to [become a member](https://owasp.org/membership/) or consider a [donation](https://owasp.org/donate/) to support OWASP's ongoing work.
 
@@ -36,4 +36,3 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
--->
