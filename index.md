@@ -5,7 +5,7 @@ title: OWASP Pimpri Chinchwad College of Engineering, Pune
 tags: PCCOE
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-pimpri-chinchwad-college-of-engineering-chapter
 
 
 ---
