@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Pimpri Chinchwad College of Engineering, Pune
+title: OWASP Pimpri Chinchwad College of Engineering- Pune - Student Chapter
 tags: PCCOE
 region: Asia
 country: India
