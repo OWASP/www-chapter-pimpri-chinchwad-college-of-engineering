@@ -32,7 +32,7 @@ We also encourage you to [become a member](https://owasp.org/membership/) or con
 
 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event
 ### XSPLOIT
 **Date:** 1 December 2022 
 **Location:** PCCOE,Pune
@@ -42,6 +42,6 @@ Our security team will be discussing about the following points.
 🎯 Ethical Hacking 
 🎯 Capture the Flag 
 (Gamified version of Ethical Hacking)
----------------------
+
 {% include chapter_events.html group=page.meetup-group %}
 
