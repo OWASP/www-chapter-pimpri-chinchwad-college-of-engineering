@@ -43,5 +43,5 @@ Our security team will be discussing about the following points.
 🎯 Capture the Flag 
 (Gamified version of Ethical Hacking)
 
-{% include chapter_events.html group=page.meetup-group %}
+
 
