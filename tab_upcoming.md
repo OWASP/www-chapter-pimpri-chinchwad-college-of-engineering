@@ -44,12 +44,12 @@ QuestCon fosters a sense of community among cybersecurity enthusiasts. Collabora
 ## 6.OWASP Involvement:
 As part of the larger OWASP event, QuestCon benefits from the expertise and resources of the OWASP Chapter, ensuring a high-quality and secure competition environment.
 
------   
 
-{% include chapter_events.html group=page.meetup-group %}
 ## Join Us
 Join us on October 27th and 28th at PCCOE in Pune for an exciting and challenging cybersecurity experience. Whether you're a seasoned professional or just starting your journey in cybersecurity, QuestCon offers an opportunity to learn, compete, and connect with the vibrant cybersecurity community. Don't miss this chance to test your skills and expand your knowledge in the world of cybersecurity.
-
+---
+## Next Update
+{% include chapter_events.html group=page.meetup-group %}
 
 
 
