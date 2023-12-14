@@ -1,3 +1,4 @@
 ### Leaders
-* [Ganesh Deshmukh](mailto:ganesh.deshmukh@owasp.org)
-* [Suraj Dhamak](mailto:suraj.dhamak@owasp.org)
+
+- [Ganesh Deshmukh](mailto:ganesh.deshmukh@owasp.org)
+- [Arya Kaslikar](mailto:arya.kaslikar@owasp.org)
