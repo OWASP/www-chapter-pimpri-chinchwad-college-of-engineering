@@ -9,6 +9,8 @@ meetup-group: owasp-pimpri-chinchwad-college-of-engineering-chapter
 
 ## Welcome
 
+<img src="./assets/images/owaspbanner.png" alt="OWASP_PCCOE_LOGO">
+
 OWASP Student Chapter of Pimpri Chinchwad College of Engineering(Pccoe), Pune. We at OWASP PCCOE aims to solving problems, especially when it comes to making the digital world safer.We've done cool stuff like organizing exciting hackathons, tech talks and workshops, all aimed at creating a fun and lively coding community on our campus. Join us, and let's learn together and make the internet a safer place! 🚀
 
 ## Participation
